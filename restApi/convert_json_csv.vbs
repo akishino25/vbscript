@@ -14,7 +14,7 @@ Dim objFso, objFile
 Set objFso = CreateObject("Scripting.FileSystemObject")
 Set objFile = objFso.OpenTextFile("simple.json", 1, False)
 
-Dim jsonData
+Dim jsonData’
 If Err.Number > 0 Then
     WScript.Echo "Open Error"
 Else

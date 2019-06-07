@@ -1,0 +1,37 @@
+{
+    "done" : true,
+    "totalSize" : 3,
+    "records" :
+    [
+        {
+            "attributes" :
+            {
+                "type" : "Account",
+                "url" : "/services/data/v20.0/sobjects/Account/001D000000IRFmaIAH"
+            },
+            "Name" : "Test 1",
+            "Key1" : "val1",
+            "Key2" : "1234"
+        },
+        {
+            "attributes" :
+            {
+                "type" : "Account",
+                "url" : "/services/data/v20.0/sobjects/Account/001D000000IomazIAB"
+            },
+            "Name" : "Test 2",
+            "Key1" : "val2",
+            "Key2" : "9876"
+        },
+        {
+            "attributes" :
+            {
+                "type" : "Account",
+                "url" : "/services/data/v20.0/sobjects/Account/001D000000IomazIAC"
+            },
+            "Name" : "Test 3",
+            "Key1" : "val3",
+            "Key2" : "9999"
+        }
+    ]
+}
